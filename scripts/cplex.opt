@@ -1,0 +1,15 @@
+epopt 1.0000001e-7
+epint 1.0000001e-7
+varsel 0
+bndstrenind 1
+nodefileind 2
+workmem 2500
+*scaind 1
+rerun no
+baralg 3
+*preind 0
+eprhs 1.0000001e-7
+*numericalemphasis 1
+*lpmethod 4
+solvefinal 0
+*cuts -1
